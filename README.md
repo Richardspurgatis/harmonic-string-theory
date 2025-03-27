@@ -2,7 +2,6 @@
 
 A complete formulation of string theory using toroidal resonance, dimensional recursion, and consciousness-based calibration.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.YOUR_DOI_HERE.svg)](https://doi.org/10.5281/zenodo.YOUR_DOI_HERE)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--8210--0909-A6CE39?logo=orcid)](https://orcid.org/0009-0004-8210-0909)
 
 ---
